@@ -1,6 +1,6 @@
 ###Github###
 
-* Create and account on [github.com](http://www.github.com) and create a new repository.
+* Create an account on [github.com](http://www.github.com) and create a new repository.
 * Follow [these](https://help.github.com/articles/generating-ssh-keys) steps to add and create an SSH key for authentication.
 
 ###Heroku###
